@@ -50,7 +50,7 @@ group :development do
   gem 'guard', '~> 2.16', '>= 2.16.2'
 
   # Using Guard-livereload  for automatically reload browser
-  gem 'guard-livereload', '~> 2.5', '>= 2.5.2'
+  gem 'guard-livereload', '~> 2.5', '>= 2.5.2', require: false
 
   # Using spring ans spring-watcher-listen for speed up development
   gem 'spring', '~> 2.1'
@@ -58,6 +58,9 @@ group :development do
 
   #Using Listen for notified if something changes
   gem 'listen', '~> 3.2', '>= 3.2.1'
+
+  # Using better_erors untuk memperindah ketika ada error
+  gem 'better_errors', '~> 2.6'
 end
 
 group :test do
