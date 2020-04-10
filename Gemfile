@@ -28,9 +28,6 @@ gem 'jbuilder', '~> 2.7'
 # Using simple form
 gem 'simple_form', '~> 5.0', '>= 5.0.2'
 
-# Using better_erors untuk memperindah ketika ada error
-gem 'better_errors', '~> 2.6'
-
 # Using bulma_rails untuk css framework nya
 gem 'bulma-rails', '~> 0.8.0'
 
@@ -61,6 +58,8 @@ group :development do
 
   # Using better_erors untuk memperindah ketika ada error
   gem 'better_errors', '~> 2.6'
+
+  gem 'binding_of_caller', '~> 0.8.0'
 end
 
 group :test do
