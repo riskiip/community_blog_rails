@@ -12,3 +12,5 @@ Project Setup
 * Yarn version 1.22.4
 
 * Database SQLite 3
+
+* Running this project with command "rails server" and go to port 3000 on your localhost
