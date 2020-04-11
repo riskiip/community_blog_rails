@@ -16,4 +16,4 @@ Project Setup
 * Running this project with command "rails server" and go to port 3000 on your localhost
 
 This is for screenshot <br/>
-![Image of Home](https://ibb.co/C6L6NB0)
+![Image of Home](https://i.ibb.co/0K5K8qJ/image.png)
