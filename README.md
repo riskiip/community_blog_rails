@@ -1,4 +1,4 @@
-# Building Community Blog Web App using Ruby on Rails
+# Built Community Blog Web App using Ruby on Rails
 
 Try to learning something new, i try to build simple Community Blog that has feature of create, update, delete and view post
 Also with comment on each post
