@@ -17,3 +17,5 @@ Project Setup
 
 This is for screenshot <br/>
 ![Image of Home](https://i.ibb.co/0K5K8qJ/image.png)
+![Image of detail post](https://i.ibb.co/PgXYPdf/image.png)
+![Image of create a new post](https://i.ibb.co/6J3cHBr/image.png)
