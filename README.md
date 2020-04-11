@@ -14,3 +14,6 @@ Project Setup
 * Database SQLite 3
 
 * Running this project with command "rails server" and go to port 3000 on your localhost
+
+This is for screenshot <br/>
+![Image of Home](https://ibb.co/C6L6NB0)
