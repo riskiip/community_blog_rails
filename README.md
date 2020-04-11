@@ -1,24 +1,14 @@
-# README
+# Building Community Blog Web App using Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Try to learning something new, i try to build simple Community Blog that has feature of create, update, delete and view post
+Also with comment on each post
 
-Things you may want to cover:
+Project Setup
 
-* Ruby version
+* Rails Framework version 6.0.2.2
 
-* System dependencies
+* Ruby version 2.6.5p114
 
-* Configuration
+* Yarn version 1.22.4
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Database SQLite 3
