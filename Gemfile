@@ -57,7 +57,7 @@ group :development do
   gem 'listen', '~> 3.2', '>= 3.2.1'
 
   # Using better_erors untuk memperindah ketika ada error
-  gem 'better_errors', '~> 2.6'
+  gem 'better_errors', '~> 2.8'
 
   gem 'binding_of_caller', '~> 0.8.0'
 end
